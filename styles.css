@@ -1,0 +1,44 @@
+body{
+
+	background-color: #D0D0D0;
+}
+button{
+    color: #EAE9E9;
+	float: left;
+	background-color: #828282;
+	text-align: center;
+	border:1px;
+    font-size: 16px;
+    padding: 15px 32px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    cursor: pointer; 
+}
+button:hover{
+	background-color: #4E4E4E;
+}
+.search{
+    padding: 10px 195px;
+	border-radius: 15px ;
+	margin-top: 8px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+    border:none;
+    outline: none;
+}
+h1{
+    color: #DF1A1A;
+}
+h2{
+    background-color: #828282;
+    background-size: 15px 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.button6{
+  float: right;  
+}
+.button5{
+  float: right;  
+}
